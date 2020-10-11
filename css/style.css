@@ -1,7 +1,4 @@
-/*--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
---*/
+
 body a {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -16,7 +13,14 @@ html, body{
 body{
 	background:#FFFFFF;
 }
+.spans{
+margin-left: 200%;	
+}
 /*-- banner --*/
+.banner3{
+	background: url(../images/batlogo.jpg) no-repeat 0px 0px;
+	background-size: cover; 
+}
 .banner2{
     
     background: url(../images/aclogo2.png) no-repeat 0px 0px;
